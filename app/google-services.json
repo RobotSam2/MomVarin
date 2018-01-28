@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "21437119066",
+    "firebase_url": "https://momvarin-74f65.firebaseio.com",
+    "project_id": "momvarin-74f65",
+    "storage_bucket": "momvarin-74f65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21437119066:android:3fdef57e23ab11ac",
+        "android_client_info": {
+          "package_name": "com.example.samrobot.momvarin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21437119066-btfnh7gcsgn867ngo2rdhsmdr99nndhe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.samrobot.momvarin",
+            "certificate_hash": "bfd8201cd1e887222faa935b9ea2d1019b5ac8c9"
+          }
+        },
+        {
+          "client_id": "21437119066-dnc8jhv4sbsfrgijos2tnvpvka4imlqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV5HBnAd61iOyJy_u6xFc3iQRV_EkJZ4s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21437119066-dnc8jhv4sbsfrgijos2tnvpvka4imlqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
